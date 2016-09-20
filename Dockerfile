@@ -1,4 +1,4 @@
-FROM mhart/alpine-node:6.2.1
+FROM mhart/alpine-node:6.6.0
 MAINTAINER erdii
 
 # build tools for native dependencies
